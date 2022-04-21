@@ -1,1 +1,1 @@
-# striver-sde-sheet-solutions
+# Solutions to the problem sheet available at https://takeuforward.org/
